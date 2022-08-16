@@ -3,9 +3,17 @@
 ## Hello! My name is Lucas, a 24 year old full stack developer.
 I consider myself a creative, enthusiastic, responsible and dedicated person. I am a fast learner, a good autodidact and enjoy working in a team. Passionate about web development eager to learn new technologies for the growth of my training as a professional.
 
-# :astronaut: Projects:
-![Final Project](/landing.png)
+<h3> 🚀 Projects: </h3>
 Link to my first Group Project https://frontend-rebirth.vercel.app/
+<p>
+<code><img width="48%" height="50%" src="https://github.com/Enzosanchezz/Enzosanchezz/blob/3fd71f64c4cba8d7aae92e5cfc9c8d47e58d5fe8/screen%20landing.png"></code>
+<code><img width="48%" height="50%" src="https://github.com/Enzosanchezz/Enzosanchezz/blob/3fd71f64c4cba8d7aae92e5cfc9c8d47e58d5fe8/screnn%20landing%20claro.png"></code>
+<code><img width="48%" height="50%" src="https://github.com/Enzosanchezz/Enzosanchezz/blob/3fd71f64c4cba8d7aae92e5cfc9c8d47e58d5fe8/screen%20header%20claro.png"></code>
+<code><img width="48%" height="50%" src="https://github.com/Enzosanchezz/Enzosanchezz/blob/3fd71f64c4cba8d7aae92e5cfc9c8d47e58d5fe8/screen%20header.png"></code>
+<code><img width="48%" height="50%" src="https://github.com/Enzosanchezz/Enzosanchezz/blob/3fd71f64c4cba8d7aae92e5cfc9c8d47e58d5fe8/screen%20detail.png"></code>
+<code><img width="48%" height="50%" src="https://github.com/Enzosanchezz/Enzosanchezz/blob/3fd71f64c4cba8d7aae92e5cfc9c8d47e58d5fe8/screen%20donation.png"></code>
+</p>
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/CCS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
