@@ -3,6 +3,9 @@
 ## Hello! My name is Lucas, a 24 year old full stack developer.
 I consider myself a creative, enthusiastic, responsible and dedicated person. I am a fast learner, a good autodidact and enjoy working in a team. Passionate about web development eager to learn new technologies for the growth of my training as a professional.
 
+# :astronaut: Projects:
+![Final Project](/landing.png)
+Link to my first Group Project https://frontend-rebirth.vercel.app/
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/CCS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
