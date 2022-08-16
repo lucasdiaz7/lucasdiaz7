@@ -1,11 +1,10 @@
-# 👋Hi there. Welcome to my profile!
+# Welcome to my profile!
 
 ## Hello! My name is Lucas, a 24 year old full stack developer.
 I consider myself a creative, enthusiastic, responsible and dedicated person. I am a fast learner, a good autodidact and enjoy working in a team.
 I am currently finishing the full-stack developer bootcamp of +800 hours at Soy Henry, in this experience I acquired knowledge in different technologies such as HTML, CSS, Javascript, React, Redux, Express, SQL and Sequelize, among others. Passionate about web development eager to learn new technologies for the growth of my training as a professional.
 
-<img align="center" src="https://cdn.hackernoon.com/images/f2px36fy.gif" alt="Coder GIF" width="1000" height="500">
-<img align="center" src="https://cdn.hackernoon.com/images/f2px36fy.gif" alt="Coder GIF" width="800" height="500">
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/CCS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
