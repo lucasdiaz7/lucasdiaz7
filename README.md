@@ -37,7 +37,7 @@ Link to my first Group Project https://frontend-rebirth.vercel.app/
 # 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasdiaz687@gmail.com)](mailto:lucasdiaz687@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-d%C3%ADaz-developer/)](https://www.linkedin.com/in/lucas-d%C3%ADaz-developer/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=3854899773&text=Olá!)](https://api.whatsapp.com/send?phone=3854899773&text=Hi!🖖)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5493854899773&text=Olá!)](https://api.whatsapp.com/send?phone=+5493854899773&text=Hi!🖖)
 
 
 [![](https://visitcount.itsvg.in/api?id=lucasdiaz7&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
