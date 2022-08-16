@@ -28,7 +28,7 @@ Link to my first Group Project https://frontend-rebirth.vercel.app/
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Nodemailer](https://miro.medium.com/max/662/1*fazveC-7Bo0H9oeuxOykqg.png)
+
 
 
 # 📫 How to reach me: 
