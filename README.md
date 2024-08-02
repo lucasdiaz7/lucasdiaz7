@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-## Hello! My name is Lucas, a 24 year old full stack developer.
+## Hello! My name is Lucas, a 26 year old full stack developer.
 I consider myself a creative, enthusiastic, responsible and dedicated person. I am a fast learner, a good autodidact and enjoy working in a team. Passionate about web development eager to learn new technologies for the growth of my training as a professional.
 
 <h3> 🚀 Projects: </h3>
